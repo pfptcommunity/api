@@ -12,7 +12,7 @@ Here is a quick link to read this readme in [WIDE MODE](https://github.com/pfptc
 - [Use Cases](#Use-cases)
 
 <br>
-PRODUCTS
+
 - [Targeted Attack Protection (TAP)](#TAP-API)
 - [Threat Response Auto-Pull (TRAP)](#TRAP-API)
 - [Nexus People Risk Explorer (NPRE)](#NPRE-API)
