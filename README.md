@@ -1,5 +1,7 @@
 ![alt text](https://github.com/pfptcommunity/api/blob/main/README.jpg)
 
-We moved the README file to the default location!
+Please point your browser to: https://github.com/pfptcommunity/ 
+
 <br>
-Please use:  https://github.com/pfptcommunity/ 
+
+Enjoy
